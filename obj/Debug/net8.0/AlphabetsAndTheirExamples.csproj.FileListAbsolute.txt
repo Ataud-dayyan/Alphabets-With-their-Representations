@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\AlphabetsAndTheirExamples.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\AlphabetsAndTheirExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\AlphabetsAndTheirExamples.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\AlphabetsAndTheirExamples.AssemblyInfo.cs
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\AlphabetsAndTheirExamples.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\bin\Debug\net8.0\AlphabetsAndTheirExamples.exe
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\bin\Debug\net8.0\AlphabetsAndTheirExamples.deps.json
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\bin\Debug\net8.0\AlphabetsAndTheirExamples.runtimeconfig.json
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\bin\Debug\net8.0\AlphabetsAndTheirExamples.dll
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\bin\Debug\net8.0\AlphabetsAndTheirExamples.pdb
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\AlphabetsAndTheirExamples.dll
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\refint\AlphabetsAndTheirExamples.dll
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\AlphabetsAndTheirExamples.pdb
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\AlphabetsAndTheirExamples.genruntimeconfig.cache
+C:\Users\HP\Desktop\Project\AlphabetsAndTheirExamples\obj\Debug\net8.0\ref\AlphabetsAndTheirExamples.dll
